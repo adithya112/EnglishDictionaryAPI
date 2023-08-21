@@ -1,5 +1,7 @@
 # Python English Dictionary API
 
+# this is a readme file which helps in understanding the project
+
 <img src="https://img0.etsystatic.com/000/0/5658883/il_570xN.187754122.jpg" />
 
 <h2>High-Level Overview</h2>
